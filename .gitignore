@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# large files
+package-lock.json
+
+node_modules
+
+# mac user adaptation
+.DS_Store
+
+
+# credentials
+.env
